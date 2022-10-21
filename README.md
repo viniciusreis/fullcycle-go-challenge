@@ -8,8 +8,6 @@ The image is published in my personal Docker Hub account as viniciusdacosta/code
 
 For  running it
 
-'''
+```
 docker run viniciusdacosta/codeeductaion
-
-'''
-
+```
